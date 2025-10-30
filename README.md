@@ -7,7 +7,8 @@ This is a Python script using the Netmiko library to automatically Telnet into C
 - Emulation: EVE-NG
 - Devices: 1 Cisco IOS Router, 2 VPCS, 1 Cloud to connect to the Internet
 - Topology: VPCS <--> Router <--> Cloud (Internet)
-  <img width="600" height="695" alt="Topology" src="https://github.com/user-attachments/assets/d98d0a62-6cdd-48c7-bd41-a1a949502a54" />
+
+  <img width="400" height="475" alt="Topology" src="https://github.com/user-attachments/assets/d98d0a62-6cdd-48c7-bd41-a1a949502a54" />
 
 - Script Connection: The router's internal IP is accessed from the host machine (Ubuntu) via Telnet to fetch the running configuration.
 
