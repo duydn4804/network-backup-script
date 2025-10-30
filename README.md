@@ -18,10 +18,10 @@ This is a Python script using the Netmiko library to automatically Telnet into C
 python3 -m venv venv
 source venv/bin/activate
 
-2.Install Netmiko
+2. Install Netmiko
 pip install netmiko
 
-3.Run the script
+3. Run the script
 python backup_configs.py
 
 ## Run the script
